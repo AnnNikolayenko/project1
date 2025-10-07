@@ -59,7 +59,7 @@ body {
 
 .main-headline {
     font-size: 2.5vw;
-    font-family: Garamond;
+    font-family: "Garamond", "Georgia", serif;
     cursor: pointer;
     width: 35vw;
 }
@@ -119,7 +119,7 @@ p {
 
 .bootom-header {
     font-size: 2.1vw;
-    font-family: Garamond;
+    font-family: "Garamond", "Georgia", serif;
     margin-bottom: 1.8vw;
 }
 
@@ -130,7 +130,7 @@ p {
 
 .bootom-copyright {
     font-size: 1.1vw;
-    font-family: Garamond;
+    font-family: "Garamond", "Georgia", serif;
     padding: 0 14rem;
     margin-bottom: 1vw;
 }
@@ -145,7 +145,7 @@ p {
 
 .page-header {
     font-size: 2vw;
-    font-family: Garamond;
+    font-family: "Garamond", "Georgia", serif;
 }
 
 .about-us-img {
@@ -416,7 +416,7 @@ p {
 
 .palette-header-text {
     font-size: 2vw;
-    font-family: Garamond;
+    font-family: "Garamond", "Georgia", serif;
 }
 
 .palette-subheader-text {
@@ -444,7 +444,7 @@ p {
 }
 
 .color-name {
-    font-family: Garamond;
+    font-family: "Garamond", "Georgia", serif;
     font-size: 1.5vw;
 }
 
