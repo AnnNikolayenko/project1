@@ -862,11 +862,6 @@ p {
         margin-bottom: 1rem;
     }
 
-    .available-colors > div {
-        min-width: 0;
-        flex-shrink: 1;
-    }
-
     .available-colors p {
         font-size: 1.5rem;
     }
