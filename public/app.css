@@ -862,7 +862,7 @@ p {
         margin-bottom: 1rem;
     }
 
-    .available-colors>div {
+    .available-colors > div {
         min-width: 0;
         flex-shrink: 1;
     }
