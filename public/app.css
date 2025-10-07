@@ -324,7 +324,7 @@ p {
 
 .info-text-header {
     font-size: 1.75vw;
-    font-family: Garamond;
+    font-family: "Garamond", "Georgia", serif;
 }
 
 .colors-variety {
@@ -1055,7 +1055,7 @@ p {
 
     .bootom-header {
         font-size: 1.5rem;
-        font-family: Garamond;
+        font-family: "Garamond", "Georgia", serif;
         margin-bottom: 1.8vw;
     }
 
@@ -1065,7 +1065,7 @@ p {
 
     .bootom-copyright {
         font-size: 0.85rem;
-        font-family: Garamond;
+        font-family: "Garamond", "Georgia", serif;
         margin-bottom: 1vw;
         padding: 0;
     }
